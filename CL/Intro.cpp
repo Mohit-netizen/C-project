@@ -1,6 +1,10 @@
 #include<iostream>
+using namespace std;
 
 main()
 {
-    std::cout<<"Ankush";
-}
+   int num=10;
+   cout<<num;
+   
+    
+} 
