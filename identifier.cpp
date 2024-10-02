@@ -1,7 +1,7 @@
 #include<iostream>
 int main()
 {
-	//rule 01- identifier may contain alphabets,underscode and number
+	//rule 01- identifier may contain alphabets,underscore and number
 	int ab_34=400;
 	std::cout<<ab_34<<"\n";
 	//Rule 02-identifier may start with underscore
